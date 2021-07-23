@@ -6,72 +6,105 @@
 
 - 🔭 I’m currently working on a project called [PyDSS Interface ](https://github.com/PauloRadatz/py_dss_interface)
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img
+<table style="border: 1px dashed;" align="center">
+  <tr>    
+    <th colspan="6">Languages and Tools</th>   
+  </tr>
+  <tr>
+    <th>Programming Languages</th>      
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>DevOps</th>
+    <th>Others</th>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://www.python.org" target="_blank">
+        <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-  <a href="https://www.cplusplus.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a>
-  <a href="https://www.learn-c.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-</p>
-
-<h4 align="left">Frontend Development</h4>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img
+            alt="python" width="40" height="40" />
+      </a>      
+      <a href="https://www.cplusplus.com" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                alt="cplusplus" width="40" height="40" />
+      </a>      
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                alt="csharp" width="40" height="40" />
+      </a>      
+      <a href="https://www.learn-c.org" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+                height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-  <a href="https://flutter.dev/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-            alt="flutter" width="40" height="40" /> </a>
-</p>
-
-<h4 align="left">Backend Development</h4>
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+            alt="css3" width="40" height="40" />
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" width="40" height="40" />
+      </a>
+      <a href="https://flutter.dev/" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+                alt="flutter" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40"
-            height="40" /> </a>
-</p>
-
-<h4 align="left">Database</h4>
-<p align="left">
-  <a href="https://mariadb.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
-</p>
-<h4 align="left">Devops</h4>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"> <img
+            height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://mariadb.org/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" />
+      </a>
+      <a href="https://www.postgresql.org" target="_blank">
+        <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="postgresql" width="40" height="40" />
+      </a>
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img
+                src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank">
+        <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /></a>    
-</p>
-<h4 align="left">Others</h4>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>  
-  <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a>
-</p>
+            alt="docker" width="40" height="40" />
+      </a> 
+    </td>
+    <td>
+      <a href="https://www.arduino.cc/" target="_blank"> <img
+            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+      </a>
+      <a href="https://git-scm.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+      </a>
+      <a href="https://www.linux.org/" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+                width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
@@ -91,7 +124,8 @@
 
 <p align="center">
     <img align="center"
-        src="https://komarev.com/ghpvc/?username=eniovianna&label=Profile%20views&color=green&style=flat"
-        alt="eniovianna_" />
+        src="https://komarev.com/ghpvc/?username=eniovianna&label=Profile%20views&color=green&style=flat" alt="eniovianna_" />
 </p>
 </p>
+
+
