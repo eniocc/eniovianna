@@ -77,21 +77,21 @@
 <p align="center">
     <a href="https://github.com/AVS1508">
         <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api?username=eniovianna&show_icons=true&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=eniovianna&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" />
         <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eniovianna&layout=compact&langs_count=8" />
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eniovianna&layout=compact&langs_count=8&theme=chartreuse-dark" />
     </a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">    
     <a href="https://linkedin.com/in/enioviana" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="enioviana"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="enioviana"
             height="30" width="40" /></a>    
 
 <p align="center">
     <img align="center"
-        src="https://komarev.com/ghpvc/?username=eniovianna&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=eniovianna&label=Profile%20views&color=green&style=flat"
         alt="eniovianna_" />
 </p>
 </p>
